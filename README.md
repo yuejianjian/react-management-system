@@ -1,5 +1,6 @@
 # react-admin
 react-admin system solution
+###项目演示及代码目前没上传，后续将会更新。
 
 <img src="https://github.com/yuejianjian/react-management-system/blob/master/tu-1.png"  width="100%" />
 <img src="https://github.com/yuejianjian/react-management-system/blob/master/tu-2.png"  width="100%" />
